@@ -1,7 +1,7 @@
 ### Hey I'm Aryan 👋
 #### A pinch of Data Science to Machine Learning and Deep Learning makes the Perfect Recipe!
 
-<img align='right' src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTabyL_ZcZcTw2RqP-08ur7zjC4tgv9FtSwnQ&usqp=CAU" width="230">
+<img align='right' src="https://media.tenor.com/images/bb06bbd5166b5617785ea6f1876aa62c/tenor.gif" width="230">
 
 Sophomore at Indian Institute of Technology Madras
 
