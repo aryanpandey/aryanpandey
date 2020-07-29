@@ -7,8 +7,8 @@ Sophomore at Indian Institute of Technology Madras
 
 Coordinator and Project Member at [Analytics Club, CFI](https://github.com/analytics-club-iitm)
 <div>
-    <a href="https://github.com/ashwin5059198">
-        <img height="25" src="https://img.shields.io/github/followers/ashwin5059198?label=follow&style=social">
+    <a href="https://github.com/aryanpandey">
+        <img height="25" src="https://img.shields.io/github/followers/aryanpandey?label=follow&style=social">
     </a>
 </div><br><br>
 
