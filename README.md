@@ -16,6 +16,8 @@ Coordinator and Project Member at [Analytics Club, CFI](https://github.com/analy
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanpandey)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=aryanpandey)](https://github.com/ryo-ma/github-profile-trophy)
+
 <div class="row">
     <div class="column">
         <a href="https://www.linkedin.com/in/aryan-pandey-30866419a/">
