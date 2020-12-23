@@ -31,7 +31,7 @@ Coordinator and Project Member at [Analytics Club, CFI](https://github.com/analy
     </div>
     <div class="column>
         <a href="https://randos.online/u/aryanpandey/next">
-        <img align="left" style="display:block;margin:10px 10px 10px 10px;" height="40" src="https://randos.online/u/aryanpandey?">
+        <img align="left" style="display:block;margin:10px 10px 10px 10px;" height="40" src="https://randos.online/u/aryanpandey?theme=blue">
         </a>
     </div>
 </div>
