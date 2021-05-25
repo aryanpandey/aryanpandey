@@ -1,5 +1,5 @@
 ### Hey I'm Aryan 👋
-#### A pinch of Data Science to Machine Learning and Deep Learning makes the Perfect Recipe!
+#### My interests lie in the 2D and 3D Image Segmentation and Object Detection aspects of Computer Vision 
 
 <img align='right' src="https://media.tenor.com/images/bb06bbd5166b5617785ea6f1876aa62c/tenor.gif" width="230">
 
