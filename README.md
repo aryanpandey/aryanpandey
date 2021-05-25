@@ -1,5 +1,5 @@
 ### Hey I'm Aryan 👋
-#### My interests lie in the 2D and 3D Image Segmentation and Object Detection aspects of Computer Vision 
+#### My interests lie in making end-to-end Data Science projects and in the 2D and 3D Image Segmentation and Object Detection aspects of Computer Vision 
 
 <img align='right' src="https://media.tenor.com/images/bb06bbd5166b5617785ea6f1876aa62c/tenor.gif" width="230">
 
