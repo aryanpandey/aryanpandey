@@ -5,7 +5,7 @@
 
 Sophomore at Indian Institute of Technology Madras
 
-Coordinator and Project Member at [Analytics Club, CFI](https://github.com/analytics-club-iitm)
+Club Head at [Analytics Club, CFI](https://github.com/analytics-club-iitm)
 <div>
     <a href="https://github.com/aryanpandey">
         <img height="25" src="https://img.shields.io/github/followers/aryanpandey?label=follow&style=social">
