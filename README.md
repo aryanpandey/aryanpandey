@@ -19,16 +19,6 @@ Club Head at [Analytics Club, CFI](https://github.com/analytics-club-iitm)
 [![trophy](https://github-profile-trophy.vercel.app/?username=aryanpandey)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div class="row">
-    <div class="column">
-        <a href="https://www.linkedin.com/in/aryan-pandey-30866419a/">
-            <img align="right" style="display:block;margin:10px 10px 10px 10px;" height="30" src="https://raw.githubusercontent.com/ashwin5059198/ashwin5059198/master/assets/img/linkedin.png">
-        </a>
-    </div>
-    <div class="column">
-        <a href="mailto:aryan.pandey@outlook.com">
-            <img align="right" style="display:block;margin:10px 10px 10px 10px;" height="30" src="https://raw.githubusercontent.com/ashwin5059198/ashwin5059198/master/assets/img/gmail.png">
-        </a>
-    </div>
     <div class="column>
         <a href="https://randos.online/u/aryanpandey/next">
         <img align="left" style="display:block;margin:10px 10px 10px 10px;" height="40" src="https://randos.online/u/aryanpandey?theme=blue">
