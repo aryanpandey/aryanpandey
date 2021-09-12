@@ -3,7 +3,7 @@
 
 <img align='right' src="https://media.tenor.com/images/bb06bbd5166b5617785ea6f1876aa62c/tenor.gif" width="230">
 
-Sophomore at Indian Institute of Technology Madras
+Pre-Final Year at Indian Institute of Technology Madras
 
 Club Head at [Analytics Club, CFI](https://github.com/analytics-club-iitm)
 <div>
