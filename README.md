@@ -1,11 +1,10 @@
 ### Hey I'm Aryan 👋
-#### On the Road to be an Applied Scientist!!
 
 <img align='right' src="https://media.tenor.com/images/bb06bbd5166b5617785ea6f1876aa62c/tenor.gif" width="230">
 
 Pre-Final Year at Indian Institute of Technology Madras
 
-Club Head at [Analytics Club, CFI](https://github.com/analytics-club-iitm)
+Ex-Club Head at [Analytics Club, CFI](https://github.com/analytics-club-iitm)
 <div>
     <a href="https://github.com/aryanpandey">
         <img height="25" src="https://img.shields.io/github/followers/aryanpandey?label=follow&style=social">
