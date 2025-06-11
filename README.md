@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.tenor.com/images/bb06bbd5166b5617785ea6f1876aa62c/tenor.gif" width="230">
 
-Pre-Final Year at Indian Institute of Technology Madras
+Graduate from Indian Institute of Technology Madras, currently working at Skan.AI
 
 Ex-Club Head at [Analytics Club, CFI](https://github.com/analytics-club-iitm)
 <div>
