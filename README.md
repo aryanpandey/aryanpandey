@@ -11,12 +11,6 @@ Ex-Club Head at [Analytics Club, CFI](https://github.com/analytics-club-iitm)
     </a>
 </div><br><br>
 
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanpandey&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanpandey)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=aryanpandey)](https://github.com/ryo-ma/github-profile-trophy)
-
 <div class="row">
     <div class="column>
         <a href="https://randos.online/u/aryanpandey/next">
