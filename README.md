@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.tenor.com/images/bb06bbd5166b5617785ea6f1876aa62c/tenor.gif" width="230">
 
-Graduate from Indian Institute of Technology Madras, currently working at Skan.AI
+Graduate from Indian Institute of Technology Madras, currently working at Riverline
 
 Ex-Club Head at [Analytics Club, CFI](https://github.com/analytics-club-iitm)
 <div>
