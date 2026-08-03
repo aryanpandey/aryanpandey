@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&height=70&lines=Hey%2C+I'm+Aryan+%F0%9F%91%8B;ML+Engineer+%40+Riverline;I+build+agents+that+run+themselves;Deep+Learning+%C2%B7+Quant+%C2%B7+LLM+Systems" alt="typing header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&height=70&lines=Hey%2C+I'm+Aryan+%F0%9F%91%8B;ML+Engineer+%40+Riverline;I+build+agents+that+run+themselves;Deep+Learning+%C2%B7+ML+Systems+%C2%B7+LLM+Agents" alt="typing header" />
 
 <br/>
 
@@ -18,13 +18,13 @@ aryan_pandey :: ML Engineer @ Riverline
 
 $ cat about.txt
 > IIT Madras grad. Former Head, Analytics Club (CFI).
-> I build LLM agents, quant/crypto automation, and ML tooling —
+> I build LLM agents, ML tooling, and automation —
 > the kind of software that keeps working while I'm asleep.
 
 $ ls ~/currently_building
 spear/               # LLM project planner with a Matrix-themed UI
-trade-automation/    # Bybit -> Google Sheets / Notion, self-updating
-btc-daily-report/    # daily BTC chart + news digest -> Notion
+f1-simulator/        # physics-driven F1 race sim built in Godot
+arxiv-paper-bot/     # auto-digests fresh arXiv ML papers
 
 $ echo $STATUS
 "Nothing Happened" — and yet, somehow, everything keeps shipping.
@@ -37,7 +37,7 @@ $ echo $STATUS
 - **[spear](https://github.com/aryanpandey/spear)** &nbsp;·&nbsp; `TypeScript` &nbsp;—&nbsp; LLM-powered project planner with a Matrix-themed UI. Turns messy intent into a deterministic task graph.
 - **[WhatsApp-debt-collection-agent](https://github.com/aryanpandey/WhatsApp-debt-collection-agent)** &nbsp;·&nbsp; `Python` &nbsp;—&nbsp; Autonomous collections agent that negotiates and follows up over WhatsApp.
 - **[AIDE-Explainability](https://github.com/aryanpandey/AIDE-Explainability)** &nbsp;·&nbsp; `Python` &nbsp;—&nbsp; Explainability modules that sanity-check AI-generated image detectors.
-- **[real-time-ohlc-with-bytewax](https://github.com/aryanpandey/real-time-ohlc-with-bytewax)** &nbsp;·&nbsp; `Python` &nbsp;—&nbsp; Streams live Coinbase OHLC through Bytewax → Bokeh → Streamlit.
+- **[App-Rating-Predictor](https://github.com/aryanpandey/App-Rating-Predictor)** &nbsp;·&nbsp; `Jupyter` &nbsp;—&nbsp; Predicts an app's Google Play Store rating from its listing metadata.
 - **[Paper_Collection](https://github.com/aryanpandey/Paper_Collection)** &nbsp;·&nbsp; `⭐ 18` &nbsp;—&nbsp; A curated vault of ML/DL papers worth reading twice.
 
 <br/>
