@@ -23,7 +23,6 @@ $ cat about.txt
 
 $ ls ~/currently_building
 spear/               # LLM project planner with a Matrix-themed UI
-f1-simulator/        # physics-driven F1 race sim built in Godot
 arxiv-paper-bot/     # auto-digests fresh arXiv ML papers
 
 $ echo $STATUS
